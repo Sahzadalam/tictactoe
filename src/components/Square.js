@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Square.style.css"
 
 const Square = ({ value }) => {
 
@@ -6,4 +7,4 @@ const Square = ({ value }) => {
     
 }
 
-export default Square
+export default Square;
