@@ -1,0 +1,35 @@
+[33mcommit 7a4657ff17d263d258f8f86fac80628e0781365b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Sat Dec 26 11:30:05 2020 +0530
+
+    calculate winner and lift up the state
+
+[33mcommit a41d367e528994199e0a073307a88e9272c6ac34[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Fri Dec 25 23:57:25 2020 +0530
+
+    addedboard state and also react events
+
+[33mcommit 73f420a1eda9c1324f179a61dfc195a42cbaf37e[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Fri Dec 25 19:58:24 2020 +0530
+
+    added sass,get to know styles
+
+[33mcommit 0a2914ffd07395bbf43429a4a3a9121952a5926b[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Fri Dec 25 19:25:28 2020 +0530
+
+    created Board and Square components
+
+[33mcommit c400ab729712ba8b2a4e5b44401ba33c77885e79[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Fri Dec 25 18:40:40 2020 +0530
+
+    created Board and Square component
+
+[33mcommit 9faa9173835179c871518ddc390815a4b14c0f66[m
+Author: sahzad <sahjad.ranchi@gmail.com>
+Date:   Fri Dec 25 17:50:48 2020 +0530
+
+    init commit
