@@ -8,11 +8,11 @@ const History = ({history, moveTo, currentMove}) => {
                    return (
                         <li key = {move}>
                             <button 
-                            style={ {
-                                fontWeight: move === currentMove ? 'bold' : 'normal',
-                            }}
                             type="button" onClick={()=>{
                                moveTo(move)
+                            }}
+                            style={ {
+                                fontWeight: move === currentMove ? 'bold' : 'normal',
                             }}>
                                 {move ===0 ? 'Go to game start': `Go to move #${move}`}
                                 </button>
